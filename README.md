@@ -6,5 +6,5 @@ Trabalho prático de matemática discreta proposto pelo professor Felipe, com ob
 
 Informaçoes
 Sistema operacional usado: LINUX<br>
-Editor de código fonte: Visual studio code
+Editor de código fonte: Visual studio code<br>
 Linguagem de programação: C
